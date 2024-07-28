@@ -1,0 +1,98 @@
+.card1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.educ {
+  text-align: center;
+  padding: 10px;
+}
+h1 {
+  font-size: 45px;
+}
+
+.Card {
+  width: 700px;
+  height: 360px;
+  border: 1px solid black;
+  background-color: beige;
+  border-radius: 20px;
+  padding-left: 1%;
+}
+
+.box {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 3%;
+  padding-right: 2%;
+}
+.card-btn1 {
+  font: bold;
+  background-color: black;
+  color: rgb(243, 181, 26);
+  height: 45px;
+  width: 140px;
+  text-align: center;
+  justify-content: center;
+  font-size: 25px;
+  border-radius: 25px;
+  padding-top: 1%;
+}
+.card-btn2 {
+  font: bold;
+  background-color: white;
+  color: black;
+  height: 45px;
+  width: 140px;
+  text-align: center;
+  justify-content: center;
+  font-size: 25px;
+  border-radius: 25px;
+  padding-top: 1%;
+}
+
+.box2 {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 45%;
+  padding-top: 2%;
+}
+.card-btn3 {
+  font: bold;
+  background-color: white;
+  color: black;
+  height: 45px;
+  width: 220px;
+  text-align: center;
+  justify-content: center;
+  font-size: 25px;
+  border-radius: 25px;
+  padding-top: 1%;
+}
+.card-btn4 {
+  font: bold;
+  background-color: white;
+  color: black;
+  height: 45px;
+  width: 100px;
+  text-align: center;
+  justify-content: center;
+  font-size: 25px;
+  border-radius: 25px;
+  padding-top: 1%;
+}
+
+.line {
+  font-size: 23px;
+  margin-top: 15px;
+  font: lighter;
+}
+
+.headline {
+  font: bolder;
+  font-size: 28px;
+  margin-top: 20px;
+}

@@ -1,0 +1,52 @@
+.nv {
+  display: flex;
+  justify-content: center;
+}
+.navbar {
+  border: 1px solid black;
+  background-color: black;
+  color: white;
+  border-radius: 40px;
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+
+.navbr-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.logo {
+  background: white;
+  color: black;
+  width: 60px;
+  height: 60px;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.navbr-left h2 {
+  font-size: 30px;
+}
+.navbar-right {
+  display: flex;
+
+  gap: 10px;
+}
+.navbar-right h2 {
+  font-size: 30px;
+}
+
+.right {
+  padding: 5px;
+  border-radius: 50px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

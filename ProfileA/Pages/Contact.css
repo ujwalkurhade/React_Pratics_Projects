@@ -1,0 +1,46 @@
+.contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4rem;
+}
+.container {
+  width: 60%;
+  height: 500px;
+  border: 1px solid rgb(245, 229, 229);
+  text-align: center;
+  padding-top: 5%;
+}
+
+.data {
+  width: 500px;
+  height: 65px;
+  border-radius: 25px;
+  box-shadow: none;
+  background-color: rgb(194, 191, 191);
+  margin-top: 15px;
+}
+.M-data {
+  width: 1000px;
+  height: 180px;
+  background-color: rgb(194, 191, 191);
+  border-radius: 25px;
+  box-shadow: none;
+  margin-top: 15px;
+}
+.btn {
+  margin-top: 20px;
+  padding-right: 65%;
+}
+.sendbtn {
+  background-color: rgb(243, 181, 26);
+  height: 65px;
+  width: 180px;
+  border-radius: 25px;
+  font-size: 30px;
+}
+
+.sendbtn:hover {
+  background-color: antiquewhite;
+  color: rgb(243, 181, 26);
+}
